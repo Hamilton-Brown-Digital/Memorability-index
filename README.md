@@ -41,7 +41,7 @@ Virtual environment (recommended)
 Installation
 
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/Brand-Memorability-Analyser.git
+git clone https://github.com/Andymart-HB/Brand-Memorability-Analyser.git
 cd Brand-Memorability-Analyser
 
 # Create & activate venv
